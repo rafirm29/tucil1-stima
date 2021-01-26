@@ -2,7 +2,6 @@
 > Penyelesaian Cryptarithmetic dengan Algoritma Brute Force
 
 # How to use the program
-## Setup
 * Clone repository ini.
 * Install Python 3.
 * Buka command prompt.
